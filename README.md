@@ -3,6 +3,6 @@ This tool require PHP for webserver, and wget for downloading dependencies. Firs
 
 apt-get -y install php wget unzip
 Installing (Kali Linux/Termux):
-git clone [https://github.com/techchipnet/CamPhish](https://github.com/zyanrudro1/ZYAN)
+git clone https://github.com/zyanrudro1/ZYAN
 cd CamPhish
 bash camphish.sh
